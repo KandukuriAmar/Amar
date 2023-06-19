@@ -1,1 +1,1 @@
-# Amar
+This is a sample project
